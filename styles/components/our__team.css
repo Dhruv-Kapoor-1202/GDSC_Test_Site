@@ -1,0 +1,34 @@
+.our__team {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.our__team__left {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 2rem;
+    gap: 0.5rem;
+}
+
+.our__team__right {
+    padding: 2em;
+    
+}
+
+.team__img1,
+.team__img2,
+.team__img5,
+.team__img6 {
+    border-radius: 20px;
+
+}
+
+.team__img3,
+.team__img4 {
+    border-radius: 50%;
+}
+
+/* .our__team__img {
+    height: 200px;
+    max-width: 200px;
+} */
