@@ -12,4 +12,4 @@ I'll complete it soon.
 
 Built using Vite and deployed using Vercel
 
-link for the website: 
+link for the website:  https://gdsc-test-site.vercel.app/
